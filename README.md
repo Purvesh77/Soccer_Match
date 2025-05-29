@@ -210,6 +210,4 @@ If you have any questions or need help:
 ---
 
 **Built with ❤️ by [Purvesh](https://github.com/Purvesh77)**
-
-*Stay updated with the beautiful game! ⚽*
 ```
